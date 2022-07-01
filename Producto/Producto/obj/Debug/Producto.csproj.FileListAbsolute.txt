@@ -1,0 +1,14 @@
+C:\Users\MARTIN\source\repos\Producto\Producto\bin\Debug\Producto.exe.config
+C:\Users\MARTIN\source\repos\Producto\Producto\bin\Debug\Producto.exe
+C:\Users\MARTIN\source\repos\Producto\Producto\bin\Debug\Producto.pdb
+C:\Users\MARTIN\source\repos\Producto\Producto\obj\Debug\Producto.csproj.AssemblyReference.cache
+C:\Users\MARTIN\source\repos\Producto\Producto\obj\Debug\Producto.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARTIN\source\repos\Producto\Producto\obj\Debug\Producto.Properties.Resources.resources
+C:\Users\MARTIN\source\repos\Producto\Producto\obj\Debug\Producto.csproj.GenerateResource.cache
+C:\Users\MARTIN\source\repos\Producto\Producto\obj\Debug\Producto.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\source\repos\Producto\Producto\obj\Debug\Producto.exe
+C:\Users\MARTIN\source\repos\Producto\Producto\obj\Debug\Producto.pdb
+C:\Users\MARTIN\source\repos\Producto\Producto\bin\Debug\Entidad.dll
+C:\Users\MARTIN\source\repos\Producto\Producto\bin\Debug\Entidad.pdb
+C:\Users\MARTIN\source\repos\Producto\Producto\obj\Debug\Producto.FormProductos.resources
+C:\Users\MARTIN\source\repos\Producto\Producto\obj\Debug\Producto.csproj.CopyComplete

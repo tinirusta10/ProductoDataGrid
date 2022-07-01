@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <listadeproductos>
+    <Codigo>2525</Codigo>
+    <Descripcion>martillo</Descripcion>
+    <Stock>25</Stock>
+  </listadeproductos>
+  <listadeproductos>
+    <Codigo>3636</Codigo>
+    <Descripcion>cuaderno</Descripcion>
+    <Stock>30</Stock>
+  </listadeproductos>
+  <listadeproductos>
+    <Codigo>1414</Codigo>
+    <Descripcion>libro</Descripcion>
+    <Stock>45</Stock>
+  </listadeproductos>
+</DocumentElement>
